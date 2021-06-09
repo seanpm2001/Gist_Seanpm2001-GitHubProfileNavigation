@@ -293,6 +293,12 @@ I originally created this language link list, as GitHub only lets you select fro
 
 [Projects written in Crystal](https://github.com/seanpm2001?tab=repositories&q=&type=&language=crystal)
 
+[Projects written in COBOL](https://github.com/seanpm2001?tab=repositories&q=&type=&language=cobol)
+
+[Projects written in Cloure](https://github.com/seanpm2001?tab=repositories&q=&type=&language=clojure)
+
+[Projects written in CMake](https://github.com/seanpm2001?tab=repositories&q=&type=&language=cmake)
+
 <!-- Section D !-->
 
 ### Section D
@@ -315,7 +321,11 @@ I originally created this language link list, as GitHub only lets you select fro
 
 ### Section F
 
-**This section is empty**
+[Projects written in Forth](https://github.com/seanpm2001?tab=repositories&q=&type=&language=forth)
+
+[Projects written in Freemarker](https://github.com/seanpm2001?tab=repositories&q=&type=&language=freemarker)
+
+[Projects written in Fortran](https://github.com/seanpm2001?tab=repositories&q=&type=&language=fortran)
 
 <!-- Section G !-->
 
@@ -324,6 +334,10 @@ I originally created this language link list, as GitHub only lets you select fro
 [Projects written in Go! (2004)/Go (2009)](https://github.com/seanpm2001?tab=repositories&q=&type=&language=go)
 
 [Projects written in Genie](https://github.com/seanpm2001?tab=repositories&q=&type=&language=genie)
+
+[Projects written in GLSL](https://github.com/seanpm2001?tab=repositories&q=&type=&language=glsl)
+
+[Projects written in GDScript](https://github.com/seanpm2001?tab=repositories&q=&type=&language=gdscript)
 
 <!-- Section H !-->
 
@@ -342,6 +356,12 @@ I originally created this language link list, as GitHub only lets you select fro
 ### Section I
 
 [Projects written in Inno setup](https://github.com/seanpm2001?tab=repositories&q=&type=&language=inno+setup)
+
+[Projects written in Idris](https://github.com/seanpm2001?tab=repositories&q=&type=&language=idris)
+
+[Projects written in Isabelle](https://github.com/seanpm2001?tab=repositories&q=&type=&language=isabelle)
+
+[Projects written in Inform-7](https://github.com/seanpm2001?tab=repositories&q=&type=&language=inform-7)
 
 <!-- Section J !-->
 
@@ -373,6 +393,8 @@ I originally created this language link list, as GitHub only lets you select fro
 
 [Projects written in Lua](https://github.com/seanpm2001?tab=repositories&q=&type=&language=lua)
 
+[Projects written in Liquid](https://github.com/seanpm2001?tab=repositories&q=&type=&language=liquid)
+
 <!-- Section M !-->
 
 ### Section M
@@ -385,6 +407,8 @@ I originally created this language link list, as GitHub only lets you select fro
 
 [Projects written in Modula-3]https://github.com/seanpm2001?tab=repositories&q=&type=&language=modula-3)
 
+[Projects written in Modelica](https://github.com/seanpm2001?tab=repositories&q=&type=&language=modelica)
+
 <!-- Section N !-->
 
 ### Section N
@@ -394,6 +418,8 @@ I originally created this language link list, as GitHub only lets you select fro
 <!-- Section O !-->
 
 ### Section O
+
+[Projects written in Objective-C](https://github.com/seanpm2001?tab=repositories&q=&type=&language=objective-c)
 
 [Projects written in Objective-J](https://github.com/seanpm2001?tab=repositories&q=&type=&language=objective-j)
 
@@ -408,6 +434,10 @@ I originally created this language link list, as GitHub only lets you select fro
 [Projects written in PHP 🌟✅](https://github.com/seanpm2001?tab=repositories&q=&type=&language=PHP)
 
 [Projects written in Postscript](https://github.com/seanpm2001?tab=repositories&q=&type=&language=postscript)
+
+[Projects written in PigLatin](https://github.com/seanpm2001?tab=repositories&q=&type=&language=piglatin)
+
+[Projects written in PureScript](https://github.com/seanpm2001?tab=repositories&q=&type=&language=purescript)
 
 <!-- Section Q !-->
 
@@ -432,6 +462,8 @@ I originally created this language link list, as GitHub only lets you select fro
 [Projects written in R](https://github.com/seanpm2001?tab=repositories&q=&type=&language=r)
 
 [Projects written in REBOL](https://github.com/seanpm2001?tab=repositories&q=&type=&language=rebol) <!-- Old note: "(Planned for: December 8th 2020)" obsolete on December 7th 2020, as I ended up adding it anyways !-->
+
+[Projects written in Racket]((https://github.com/seanpm2001?tab=repositories&q=&type=&language=racket)
 
 <!-- Section S !-->
 
@@ -481,6 +513,10 @@ I originally created this language link list, as GitHub only lets you select fro
 
 [Projects written in Vue/Vue.js](https://github.com/seanpm2001?tab=repositories&q=&type=&language=vue)
 
+[Projects written in VHDL](https://github.com/seanpm2001?tab=repositories&q=&type=&language=vhdl)
+
+[Projects written in Vim Script](https://github.com/seanpm2001?tab=repositories&q=&type=&language=vim+script)
+
 <!-- Section W !-->
 
 ### Section W
@@ -503,7 +539,7 @@ I originally created this language link list, as GitHub only lets you select fro
 
 ### Section Z
 
-**This section is empty**
+[Projects written in ZenScript](https://github.com/seanpm2001?tab=repositories&q=&type=&language=zenscript)
 
 ### Other
 
@@ -1478,11 +1514,11 @@ V6 surpassed V5 in terms of features, length, and functionality.
 
 ## File info
 
-File version: `19 (Thursday, January 21st 2021 at 7:31 pm)`
+File version: `20 (Tuesday, June 8th 2021 at 6:51 pm)`
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines and compiler line): `1,896`
+Line count (including blank lines and compiler line): `2,001`
 
 ***
 
@@ -1502,9 +1538,10 @@ These are the current known bugs/issues for this Gist as of version 6 pre-releas
 
 ## File history
 
-This information has been hidden (commented out) to prevent unnecessary scrolling. View the source of this file to view its history.
+<details>
+<summary>This information has been collapsed to prevent unnecessary scrolling. Click/tap here to expand/collapse the file history</summary>
 
-<!--
+***
 
 Version 1 (Friday, November 27th 2020 at 1:33 pm)
 
@@ -1776,11 +1813,15 @@ Version 19 (Thursday, January 21st 2021 at 7:31 pm)
 
 > * No other changes in version 19
 
-Version 20 (Coming soon)
+Version 20 (Tuesday, June 8th 2021 at 6:51 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file for the first time in months, adding support for many new languages
+
+> * Updated the version history section, turning it into a dropdown
+
+> * Updated the file info section
 
 > * No other changes in version 20
 
@@ -1880,7 +1921,71 @@ Version 32 (Coming soon)
 
 > * No other changes in version 32
 
-!-->
+Version 33 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 33
+
+Version 34 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 34
+
+Version 35 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 35
+
+Version 36 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 36
+
+Version 37 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 37
+
+Version 38 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 38
+
+Version 39 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 39
+
+Version 40 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 40
+
+</details>
 
 ***
 
